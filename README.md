@@ -83,15 +83,6 @@ No additional installation is required.
 
 ---
 
-## 📸 Preview
-
-> Add a screenshot or GIF here.
-
-```
-assets/preview.png
-```
-
----
 
 ## 🌐 API
 
@@ -150,13 +141,6 @@ git push origin feature-name
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
-See the **LICENSE** file for more information.
-
----
 
 ## 🙏 Acknowledgments
 
